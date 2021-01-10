@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42877e21-e525-47b6-86bf-56fd52e9a7b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../DDL.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDL.sql.save" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDL.sql.save.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDL_dbModel.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDL_procedures.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DML_initialValues.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/tSQLt_V1.0.7597.5637/Example.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/tSQLt_V1.0.7597.5637/License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/tSQLt_V1.0.7597.5637/PrepareServer.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/tSQLt_V1.0.7597.5637/ReleaseNotes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/tSQLt_V1.0.7597.5637/tSQLt.class.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/test.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lZ45hKb4vXrddXMsZCeFGMOeqO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.npm serve">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm serve" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42877e21-e525-47b6-86bf-56fd52e9a7b1" name="Default Changelist" comment="" />
+      <created>1607791098127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607791098127</updated>
+      <workItem from="1607791099365" duration="7369000" />
+      <workItem from="1607799249288" duration="18315000" />
+      <workItem from="1607859495420" duration="11586000" />
+      <workItem from="1607883137858" duration="2720000" />
+      <workItem from="1607892738037" duration="1866000" />
+      <workItem from="1607946059151" duration="2482000" />
+      <workItem from="1607963477658" duration="2710000" />
+      <workItem from="1607975996555" duration="1421000" />
+      <workItem from="1607983584235" duration="4238000" />
+      <workItem from="1608034955896" duration="7584000" />
+      <workItem from="1608056484229" duration="5066000" />
+      <workItem from="1608067564786" duration="3000000" />
+      <workItem from="1608134729859" duration="892000" />
+      <workItem from="1608474089677" duration="1152000" />
+      <workItem from="1608594868139" duration="56000" />
+      <workItem from="1608931801705" duration="9789000" />
+      <workItem from="1609070870880" duration="5216000" />
+      <workItem from="1609093997427" duration="2723000" />
+      <workItem from="1609105770694" duration="3352000" />
+      <workItem from="1609180482133" duration="8459000" />
+      <workItem from="1609204415856" duration="198000" />
+      <workItem from="1609206262354" duration="1735000" />
+      <workItem from="1609222164230" duration="1208000" />
+      <workItem from="1609275583547" duration="681000" />
+      <workItem from="1609276471142" duration="1550000" />
+      <workItem from="1610288502571" duration="1684000" />
+      <workItem from="1610290942197" duration="2915000" />
+      <workItem from="1610297670307" duration="601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
